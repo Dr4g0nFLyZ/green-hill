@@ -1,2 +1,2 @@
 # green-hill
-Proxy tunnel for Cloudflare Workers
+Cloudflare Workers endpoint
